@@ -1,3 +1,9 @@
+body {
+    background-color: #333;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
 .center {
     display: flex;
     justify-content: center;
@@ -20,4 +26,10 @@
 
 .character-details > div {
     margin: 10px;
+}
+
+img {
+    background-color: #666;
+    width: 100px;
+    height: 100px;
 }
